@@ -1,5 +1,9 @@
 # Principal Component Analysis on Multispectral Satellite Image
+
+
 This Project on Eigensystem and Principal Component Analysis (PCA) delves into the implementation and understanding of the PCA algorithm applied to multispectral satellite images. The project employs an 8-band image from Adelaide, Australia, representing various geographical features through different wavelength intervals.
+
+# [Image file used for this project](https://drive.google.com/file/d/1Hn9E-rHKMXCBU-_Oc-f1hX3mplu3OwIU/view?usp=drive_link)
 
 The procedure involves constructing a matrix from the spectral bands, computing the covariance matrix, determining eigenvalues and eigenvectors, and using inverse PCA to reconstruct the original image. Notably, PCA aids in reducing the dimensionality of multispectral satellite images, capturing essential information in fewer dimensions.
 
@@ -9,4 +13,3 @@ The results showcase the subtracted images obtained from the highest and lowest 
 
 Overall, the project demonstrates how PCA can be a powerful tool for analyzing and compressing multispectral satellite images, providing insights into the importance of different spectral components and their impact on image reconstruction. The project findings enhance understanding of eigensystems, PCA, and their practical applications in image processing.
 
-# [Image file used for this project](https://drive.google.com/file/d/1Hn9E-rHKMXCBU-_Oc-f1hX3mplu3OwIU/view?usp=drive_link)
