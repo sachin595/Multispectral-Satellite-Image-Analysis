@@ -8,3 +8,5 @@ The covariance matrix, central to PCA, identifies principal components and their
 The results showcase the subtracted images obtained from the highest and lowest eigenvalues, revealing the significance of the principal components in preserving image information. The discussion emphasizes that a small subset of eigenvectors can capture a significant portion of the image data, illustrating the efficacy of PCA in dimensionality reduction.
 
 Overall, the project demonstrates how PCA can be a powerful tool for analyzing and compressing multispectral satellite images, providing insights into the importance of different spectral components and their impact on image reconstruction. The project findings enhance understanding of eigensystems, PCA, and their practical applications in image processing.
+
+[Image file used for this project](https://drive.google.com/file/d/1Hn9E-rHKMXCBU-_Oc-f1hX3mplu3OwIU/view?usp=drive_link)
