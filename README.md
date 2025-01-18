@@ -1,5 +1,13 @@
 # Principal Component Analysis on Multispectral Satellite Image
 
+![Image Processing](https://img.shields.io/badge/Image%20Processing-blue?style=for-the-badge&logo=imagej&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks&logoColor=white)
+![PCA](https://img.shields.io/badge/PCA-green?style=for-the-badge&logo=google-analytics&logoColor=white)
+![Linear Algebra](https://img.shields.io/badge/Linear%20Algebra-yellow?style=for-the-badge&logo=matrix&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-red?style=for-the-badge&logo=databricks&logoColor=white)
+
+
+
 This project applies Principal Component Analysis (PCA) to an 8-band multispectral satellite image of Adelaide, Australia, to extract key spectral features and reduce dimensionality. Results include eigenvalue computations, image reconstruction, and comparisons of original and reconstructed images
 
 # [Image file used for this project](https://drive.google.com/file/d/1Hn9E-rHKMXCBU-_Oc-f1hX3mplu3OwIU/view?usp=drive_link)
