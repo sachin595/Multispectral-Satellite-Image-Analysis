@@ -14,6 +14,6 @@ The results showcase the subtracted images obtained from the highest and lowest 
 Overall, the project demonstrates how PCA can be a powerful tool for analyzing and compressing multispectral satellite images, providing insights into the importance of different spectral components and their impact on image reconstruction. The project findings enhance understanding of eigensystems, PCA, and their practical applications in image processing.
 
 ## Results and Analysis
-For detailed results and analyses of satellite images, please refer to [Results and Report.pdf](results_and_report.pdf).
+For detailed results and analyses of satellite images, please refer to [Results and Report.pdf](report_and_results.pdf).
 
 
